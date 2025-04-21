@@ -3,7 +3,7 @@
 
 A simple and interactive desktop app built with Python and Tkinter to **estimate the price of land or house properties** based on location, condition, and additional house details like rooms, bathrooms, pool, etc.
 
----
+--- 
 
 ## 🚀 Features
 
